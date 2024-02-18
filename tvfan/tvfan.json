@@ -1,0 +1,24 @@
+{
+	"urls": [
+		{
+			"url": "clan://localhost/tvfan/fty/饭太硬.txt",
+			"name": "饭太硬本地"
+		},
+		{
+			"url": "http://饭太硬.top/tv",
+			"name": "饭太硬在线"
+		},
+		{
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "神秘的哥哥们"
+        }, 
+        {
+            "url": "http://rihou.vip:88/荷城茶秀",
+            "name": "荷城茶秀"
+        },
+        {
+            "url": "http://weixine.link:33/",
+            "name": "运输车主线"
+        }
+	]
+}
